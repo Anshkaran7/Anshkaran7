@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Anshkaran7
-- 👀 I’m interested to learn Full Stack Web development.
+- 👀 Trying to be a Full Stack developer.
 - 🌱 I’m currently learning React js.
