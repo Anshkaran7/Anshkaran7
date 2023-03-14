@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshkaran7&label=Profile%20views&color=0e75b6&style=flat" alt="anshkaran7" /> </p>
 
 - 🌱 I’m currently learning **NodeJS.**
-I'm currently working on **ReactJs and nodeJs.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-karan7.vercel.app/](https://portfolio-karan7.vercel.app/)
 
