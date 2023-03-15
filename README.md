@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **NodeJS.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-karan7.vercel.app/](https://portfolio-karan7.vercel.app/)
-
 - 📫 How to reach me **karanchandravanshi217@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
