@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
+<h1 align="center">Hi 👋, I'm Karan </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
