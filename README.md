@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Karan </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshkaran7&label=Profile%20views&color=0e75b6&style=flat" alt="anshkaran7" /> </p>
 
-- 🌱 I’m currently working on **React Native.**
+- 🌱 I’m currently working on **Nest Js.**
 
-- 📫 How to reach me **karanchandravanshi217@gmail.com**
+- 📫 How to reach me **ansh.tsx@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-kumar-416321239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-kumar-416321239/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-kumar-416321239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itsmeekaran/" height="30" width="40" /></a>
 <a href="https://twitter.com/itsmeekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmeekaran" height="30" width="40" /></a>
 </p>
 
