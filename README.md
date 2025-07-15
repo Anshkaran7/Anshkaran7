@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Karan </h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshkaran7&label=Profile%20views&color=0e75b6&style=flat" alt="anshkaran7" /> </p>
 
-- 🌱 I’m currently working on **Nest Js.**
+<!-- - 🌱 I’m currently working on **Nest Js.** -->
 
 - 📫 How to reach me **ansh.tsx@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+<!-- - ⚡ Fun fact **I think I am funny** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
