@@ -27,4 +27,4 @@
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=Anshkaran7&layout=compact" />
 </a> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshkaran7&" alt="anshkaran7" /></p>
-<a href="https://www.buymeacoffee.com/anshkaran7" target="_blank"><img src="https://camo.githubusercontent.com/7b8f7343bfc6e3c65c7901846637b603fd812f1a5f768d8b0572558bde859eb9/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/anshtsxr" target="_blank"><img src="https://camo.githubusercontent.com/7b8f7343bfc6e3c65c7901846637b603fd812f1a5f768d8b0572558bde859eb9/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" alt="Buy Me A Coffee" height="41" width="174"></a>
