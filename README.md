@@ -41,22 +41,6 @@ focused on performance, UX and modern frontend architecture.
 
 ---
 
-## 🚀 Featured Work
-
-### 🏍 Bike Rental App
-Map-based bike discovery & booking system  
-→ Clean UI, real-time availability  
-
-### 🤖 AI Chrome Extension
-Prompt-driven automation  
-→ Fast & optimized frontend  
-
-### 📱 React Native Apps
-Cross-platform mobile apps  
-→ Smooth UI & performance  
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -77,29 +61,12 @@ Cross-platform mobile apps
 
 ---
 
-## ⏱️ Coding Activity (Live)
-
-<!-- Optional: Requires WakaTime setup -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Focus
 
 - Clean UI / UX  
 - Scalable frontend architecture  
 - Performance optimization  
 - Real-world product building  
-
----
-
-## 🧩 Currently Exploring
-
-- AI in frontend apps  
-- Advanced animations (no heavy libs)  
-- Design systems  
 
 ---
 
