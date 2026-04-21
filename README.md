@@ -1,30 +1,88 @@
-<h1 align="center">Hi 👋, I'm Karan </h1>
-<!-- <h3 align="center">A passionate full stack developer from India</h3> -->
+<h1 align="center">Hey 👋, I'm Karan</h1>
+<h3 align="center">Frontend Developer | React • Next.js • React Native</h3>
 
-<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshkaran7&label=Profile%20views&color=0e75b6&style=flat" alt="anshkaran7" /> </p>
-
-<!-- - 🌱 I’m currently working on **Nest Js.** -->
-
-- 📫 How to reach me **ansh.tsx@gmail.com**
-
-<!-- - ⚡ Fun fact **I think I am funny** -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/karan-kumar-416321239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itsmeekaran/" height="30" width="40" /></a>
-<a href="https://twitter.com/itsmeekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmeekaran" height="30" width="40" /></a>
+<p align="center">
+  Building modern, scalable, and clean UI experiences ⚡
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
-<!-- <a href="https://github.com/Anshkaran7">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=Anshkaran7&show_icons=true&include_all_commits=true" />
-</a> -->
-<!--
-<a href="https://github.com/Anshkaran7">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=Anshkaran7&layout=compact" />
-</a> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshkaran7&" alt="anshkaran7" /></p>
-<a href="https://www.buymeacoffee.com/anshtsxr" target="_blank"><img src="https://camo.githubusercontent.com/7b8f7343bfc6e3c65c7901846637b603fd812f1a5f768d8b0572558bde859eb9/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" alt="Buy Me A Coffee" height="41" width="174"></a>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Frontend Developer with **3+ years of experience**
+- ⚛️ Specialized in **React, Next.js & React Native**
+- 🎯 Focused on **performance, clean UI & great UX**
+- 🧠 Currently exploring **AI integrations & advanced frontend architecture**
+- 📩 Reach me at: **ansh.tsx@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/karan-kumar-416321239/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://twitter.com/itsmeekaran" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,html,css" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react" /> React Native (Expo)
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🎨 Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshkaran7&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshkaran7&theme=radical" />
+</p>
+
+---
+
+## ⚡ What I Build
+
+- 📱 Cross-platform mobile apps with React Native
+- 🌐 High-performance web apps using Next.js
+- 🎯 Clean and scalable frontend architectures
+- 🤖 AI-powered tools & Chrome extensions
+
+---
+
+## ☕ Support
+
+<p>
+<a href="https://www.buymeacoffee.com/anshtsxr">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+</a>
+</p>
+
+---
+
+⭐️ *Always building. Always learning.*
