@@ -29,8 +29,10 @@ Building **[ExpoKit](https://expokit.karandev.in)**, animated copy-paste UI comp
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,supabase,firebase,vercel,figma&perline=12" alt="TypeScript, React, Next.js, Tailwind, Node.js, Express, PostgreSQL, MongoDB, Supabase, Firebase, Vercel, Figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express,graphql,prisma,postgres,mongodb,supabase,firebase,git,githubactions,vercel,aws,figma&perline=10" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Redux, Node.js, Express, GraphQL, Prisma, PostgreSQL, MongoDB, Supabase, Firebase, Git, GitHub Actions, Vercel, AWS, Figma" />
 </p>
+
+<sub>Also: React Native · Expo · Zustand · shadcn/ui · Clerk · Neon · Framer Motion</sub>
 
 ---
 
