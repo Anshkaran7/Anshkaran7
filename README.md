@@ -1,85 +1,39 @@
-<h1 align="center">Karan Kumar</h1>
+<h2 align="center">Hi, I'm Karan 👋</h2>
 
 <p align="center">
-  Frontend Engineer • React • Next.js • React Native
+  Full-stack engineer building fast, polished products with React, Next.js, React Native and Node.js.
 </p>
 
 <p align="center">
-  <a href="mailto:ansh.tsx@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/karan-kumar-416321239/">LinkedIn</a> •
-  <a href="https://twitter.com/itsmeekaran">Twitter</a>
-</p>
-
----
-
-## 👁️ Profile Insights
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshkaran7&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/anshkaran7?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/anshkaran7?affiliations=OWNER&style=flat&color=0e75b6" />
+  <a href="https://expokit.karandev.in">ExpoKit</a> ·
+  <a href="https://karandev.in">Website</a> ·
+  <a href="https://www.linkedin.com/in/karan-kumar-416321239/">LinkedIn</a> ·
+  <a href="https://x.com/itsmeekaran">X</a> ·
+  <a href="mailto:ansh.tsx@gmail.com">Email</a>
 </p>
 
 ---
 
-## ⚡ About
+### Now
 
-I build fast, scalable and visually clean digital products  
-focused on performance, UX and modern frontend architecture.
+Building **[ExpoKit](https://expokit.karandev.in)**, animated copy-paste UI components, screens and charts for Expo & React Native, with its own CLI, payments and auth.
+[`@expokit/cli`](https://www.npmjs.com/package/@expokit/cli) · [`expo-charts`](https://www.npmjs.com/package/expo-charts)
 
-- 3+ years of frontend experience  
-- Specialized in React ecosystem  
-- Building AI-powered tools & UI systems  
+### About
 
----
+- 3+ years shipping production web and mobile apps, end to end
+- Frontend: UI systems, performance and motion that feels native
+- Backend: APIs, auth, payments and databases (Node.js, Postgres, MongoDB)
+- Currently exploring AI-powered developer tools
 
-## 🧠 Tech Stack
+### Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,nodejs,express,mongodb,firebase,figma,git" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshkaran7&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshkaran7&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph (Live)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkaran7&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🎯 Focus
-
-- Clean UI / UX  
-- Scalable frontend architecture  
-- Performance optimization  
-- Real-world product building  
-
----
-
-## ☕ Support
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/anshtsxr">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,supabase,firebase,vercel,figma&perline=12" alt="TypeScript, React, Next.js, Tailwind, Node.js, Express, PostgreSQL, MongoDB, Supabase, Firebase, Vercel, Figma" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Build clean. Ship fast. Stay consistent.</i>
+  <a href="https://github.com/sponsors/Anshkaran7">Sponsor my open-source work</a>
 </p>
